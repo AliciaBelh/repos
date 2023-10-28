@@ -1,0 +1,5 @@
+﻿  T1.c
+  T1.cpp
+x64\Debug\T1.obj : warning LNK4042: object specified more than once; extras ignored
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\alici\source\repos\YEAR 2\BenAndAliciaTirgul\x64\Debug\T1.exe : fatal error LNK1120: 1 unresolved externals
